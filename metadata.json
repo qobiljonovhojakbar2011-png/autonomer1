@@ -1,0 +1,6 @@
+{
+  "name": "Premium Auto Nomer",
+  "description": "O'zbekistonning eksklyuziv va chiroyli avtomobil davlat raqamlari hashamatli marketpleysi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
